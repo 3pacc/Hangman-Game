@@ -26,4 +26,5 @@ Avant de jouer à ce jeu, assurez-vous d'avoir Python installé sur votre systè
 4. Le jeu vous guidera tout au long du processus de jeu.
 
 Amusez-vous à jouer au jeu du Pendu développé en Python avec Tkinter !
+
 ```
